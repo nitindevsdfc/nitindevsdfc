@@ -1,4 +1,4 @@
-- Hi there, I'm Nitin! 👋
+ Hi there, I'm Nitin! 👋
 🌐 Salesforce Developer | 1.8 Years of Experience
 💻 Passionate about building scalable and efficient solutions on the Salesforce platform.
 

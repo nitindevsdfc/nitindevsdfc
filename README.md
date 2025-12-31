@@ -1,10 +1,10 @@
  Hi there, I'm Nitin! 👋
-🌐 Salesforce Developer | 1.8 Years of Experience
+🌐 Salesforce Developer | 1 Years of Experience
 💻 Passionate about building scalable and efficient solutions on the Salesforce platform.
 
 🛠️ Technologies & Tools
-Salesforce Development: Apex, Visualforce, Lightning Web Components (LWC), Aura Components
-Integration: REST/SOAP APIs, Salesforce Connect, Middleware tools
+Salesforce Development: Apex, Lightning Web Components (LWC)
+Integration: REST/SOAP APIs, Salesforce Connect, Middleware tools, Informatica PowerCenter
 Tools: Salesforce CLI, VS Code, Workbench, Data Loader, Git
 
 🚀 What I Do
@@ -12,7 +12,7 @@ Develop custom Salesforce applications to meet business requirements.
 Automate business processes using Flows, Process Builder, and Apex Triggers.
 Integrate Salesforce with third-party systems using APIs.
 Optimize Salesforce performance and ensure best practices in development.
-Other Skills: JavaScript, HTML, CSS, SOQL, SOSL.
+Other Skills: C, Java, JavaScript, HTML, CSS, SQL, SOQL, SOSL.
 
 🌱 Currently Learning
 Advanced Lightning Web Components (LWC).

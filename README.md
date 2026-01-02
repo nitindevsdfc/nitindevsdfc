@@ -1,36 +1,77 @@
- Hi there, I'm Nitin! 👋
-🌐 Salesforce Developer | 1 Years of Experience
-💻 Passionate about building scalable and efficient solutions on the Salesforce platform.
+# Hi, I'm Nitin 👋
 
-🛠️ Technologies & Tools
-Salesforce Development: Apex, Lightning Web Components (LWC)
-Integration: REST/SOAP APIs, Salesforce Connect, Middleware tools, Informatica PowerCenter
-Tools: Salesforce CLI, VS Code, Workbench, Data Loader, Git
+🚀 Salesforce Developer | Apex & LWC Enthusiast  
+📍 India | Open to Opportunities  
 
-🚀 What I Do
-Develop custom Salesforce applications to meet business requirements.
-Automate business processes using Flows, Process Builder, and Apex Triggers.
-Integrate Salesforce with third-party systems using APIs.
-Optimize Salesforce performance and ensure best practices in development.
-Other Skills: C, Java, JavaScript, HTML, CSS, SQL, SOQL, SOSL.
+---
 
-🌱 Currently Learning
-Advanced Lightning Web Components (LWC).
-Salesforce DX and CI/CD pipelines.
-Salesforce CPQ and Einstein Analytics.
+## 🧠 About Me
+I am a Salesforce Developer focused on strengthening my fundamentals through **daily hands-on practice**.  
+I believe in **learning by building**, writing clean Apex code, and following Salesforce best practices.
 
-📂 Projects
-Here are some of the projects I’ve worked on:
-Salesforce CRM Enhancement: Developed custom objects, workflows, and reports to streamline sales processes.
-Integration with External ERP: Built REST API integrations to sync data between Salesforce and an external ERP system.
-Custom Lightning App: Created a Lightning Web Component (LWC) for a dynamic dashboard to visualize sales metrics.
+Currently, I am sharpening my skills in:
+- Apex (Triggers, Classes, SOQL)
+- Lightning Web Components (LWC)
+- Salesforce DX & Git-based workflows
 
-📫 Let's Connect
-Email: nitin.bw.kumar@gmail.com
-Phone: +919523121825
+---
 
-⚡ Fun Fact
-When I'm not coding, I love exploring new technologies, reading tech blogs, and contributing to open-source projects!
-Feel free to explore my repositories and reach out if you'd like to collaborate or discuss Salesforce development! 😊
+## 🛠️ Tech Stack
 
+### Salesforce
+- Apex, Triggers  
+- Lightning Web Components (LWC)  
+- Flows & Automation  
+- SOQL / SOSL  
 
+### Integration
+- REST & SOAP APIs  
+- Salesforce Connect  
+- Informatica PowerCenter  
+
+### Tools
+- Salesforce CLI (SFDX)  
+- VS Code  
+- Git & GitHub  
+- Workbench  
+- Data Loader  
+
+### Other Skills
+- Java, JavaScript  
+- HTML, CSS  
+- SQL  
+
+---
+
+## 📂 Learning Repositories
+
+### 🔹 Salesforce Trigger Practice
+📘 Daily Apex trigger practice with best practices  
+➡️ `salesforce-trigger-practice`
+
+### 🔹 Apex Core Practice
+📘 Apex fundamentals: Lists, Sets, Maps, SOQL, logic building  
+➡️ `salesforce-apex-practice`
+
+### 🔹 LWC Learning
+📘 Hands-on Lightning Web Components  
+➡️ `salesforce-lwc-learnings`
+
+---
+
+## 🌱 Currently Learning
+- Advanced Apex patterns  
+- Advanced LWC  
+- Salesforce DX & CI/CD  
+- CPQ & Analytics basics  
+
+---
+
+## ⚡ Fun Fact
+I believe **consistency beats talent**.  
+I practice Salesforce every single day 💪
+
+---
+
+## 📫 Connect With Me
+📧 Email: **nitin.bw.kumar@gmail.com**

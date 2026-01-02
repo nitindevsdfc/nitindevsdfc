@@ -1,6 +1,6 @@
 # Hi, I'm Nitin 👋
 
-🚀 Salesforce Developer | Apex & LWC Enthusiast  
+🚀 Salesforce Developer | Apex & LWC Learner  
 📍 India | Open to Opportunities  
 
 ---
